@@ -1,4 +1,4 @@
-# Module 2 - Team Game Show
+# Module 2 - Team Game Show Strategies
 
 Please complete the problems on the assignment page as follows.
 
